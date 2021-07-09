@@ -27,5 +27,5 @@ body{
     right: 90px;
 }
 .main:hover .ball{
-    transform: translateX(400px)
+    transform: translate(400px, -200px);
 }
